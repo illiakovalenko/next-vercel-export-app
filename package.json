@@ -4,7 +4,7 @@
   "version": "16.1.0-canary.22",
   "private": true,
   "config": {
-    "appName": "next-vercel-export-app",
+    "appName": "jssnextweb",
     "rootPlaceholders": [
       "jss-main"
     ],
